@@ -2,7 +2,7 @@
 
 <img align="center" alt="salacomeletronicosegatosnajanela-pixelart" src="https://raw.githubusercontent.com/ChristopherErnesto/ChristopherErnesto/refs/heads/main/gif%20pinguin%20aumentado%20de%20tamanho.gif">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<center>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)</center>
 
 <img src="https://raw.githubusercontent.com/felipeAguiarCode/felipeAguiarCode/refs/heads/master/.github/assets/lineBar.png">
 
