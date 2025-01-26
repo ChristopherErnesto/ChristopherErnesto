@@ -29,4 +29,4 @@
 <img src="https://raw.githubusercontent.com/felipeAguiarCode/felipeAguiarCode/refs/heads/master/.github/assets/lineBar.png"><br>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristopherErnesto)](https://github.com/ChristopherErnesto/github-readme-stats)
