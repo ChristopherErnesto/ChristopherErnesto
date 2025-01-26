@@ -2,7 +2,6 @@
 
 <img align="center" alt="salacomeletronicosegatosnajanela-pixelart" src="https://raw.githubusercontent.com/ChristopherErnesto/ChristopherErnesto/refs/heads/main/gif%20pinguin%20aumentado%20de%20tamanho.gif">
 
-<center>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)</center>
 
 <img src="https://raw.githubusercontent.com/felipeAguiarCode/felipeAguiarCode/refs/heads/master/.github/assets/lineBar.png">
 
@@ -25,3 +24,6 @@
 <a href="https://www.linkedin.com/in/christopher-ernesto-da-silva/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
 </a>
+<img src="https://raw.githubusercontent.com/felipeAguiarCode/felipeAguiarCode/refs/heads/master/.github/assets/lineBar.png"><br><br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
