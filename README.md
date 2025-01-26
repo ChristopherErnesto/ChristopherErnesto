@@ -1,6 +1,6 @@
 <h1 align="Center">Hello World <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Call Me Hand Medium-Light Skin Tone" width="25" height="25" /></h1>
 
-<img align="center" alt="pinguincodando" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZpZXl5bXV5cjl4b290anp0MTBnMzM5NmkzeW5iOXBuNzQ1cGQxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="300" height="300">
+<img align="center" alt="pinguincodando" src="https://raw.githubusercontent.com/ChristopherErnesto/ChristopherErnesto/refs/heads/main/gif%20pinguin%20aumentado%20de%20tamanho.gif">
 
 <img src="https://raw.githubusercontent.com/felipeAguiarCode/felipeAguiarCode/refs/heads/master/.github/assets/lineBar.png">
 
