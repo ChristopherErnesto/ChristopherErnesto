@@ -2,7 +2,7 @@
 
 <img align="center" alt="pinguincodando" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZpZXl5bXV5cjl4b290anp0MTBnMzM5NmkzeW5iOXBuNzQ1cGQxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="300" height="300">
 
----------------------------------------------------------------------
+<img src="https://raw.githubusercontent.com/felipeAguiarCode/felipeAguiarCode/refs/heads/master/.github/assets/lineBar.png">
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" style="max-width: 100%;"> Hi i'm Chris 
 
